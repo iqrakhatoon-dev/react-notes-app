@@ -58,6 +58,11 @@ This project helped in understanding:
 - State management basics
 - Responsive UI design with Tailwind
 
+## 📸 UI Preview
+
+<img width="1913" height="906" alt="Screenshot 2026-02-12 215604" src="https://github.com/user-attachments/assets/b15eaabb-38e3-4b35-ad3c-8d1f2350a70a" />
+
+
 
 ## 🔗 Author
 **Iqra Khatoon (Aspiring Full Stack MERN Developer)**
