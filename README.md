@@ -60,8 +60,7 @@ This project helped in understanding:
 
 ## 📸 UI Preview
 
-<img width="1913" height="906" alt="Screenshot 2026-02-12 215604" src="https://github.com/user-attachments/assets/b15eaabb-38e3-4b35-ad3c-8d1f2350a70a" />
-
+<img width="1828" height="909" alt="Screenshot 2026-02-13 210752" src="https://github.com/user-attachments/assets/cf1d92a6-72a0-426a-bd6e-2fee1630cfa3" />
 
 
 ## 🔗 Author
